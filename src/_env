@@ -1,0 +1,2 @@
+REACT_APP_API=https://localhost:44377/api/
+REACT_APP_PHOTOPATH=https://localhost:44377/Photos/
